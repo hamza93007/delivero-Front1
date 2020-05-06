@@ -1,0 +1,42 @@
+.FormHero {
+  background-color: white;
+  padding: 30px;
+  border-radius: 5px;
+  border: 1px solid ghostwhite;
+}
+
+.logo {
+    color: #00CDBD;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: bold;
+    margin: 10px;
+    font-style: italic;
+
+    }
+
+ .Header {
+  margin: 20px 0px ;
+  display: flex;
+ justify-content: space-between;
+        }
+        
+.Title {
+    font-size: 30px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+  .image {
+    width: 350px;
+    height: 230px;
+    border-radius: 5px;
+    background: #f3f5f5;
+  }
+  
+  .DescResto {
+    color: #868a8a;
+    line-height: 1.5;
+    margin-right: 10px;
+    font-size: 18px;
+
+  }

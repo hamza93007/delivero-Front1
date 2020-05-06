@@ -1,0 +1,33 @@
+img {
+        height: 135px;
+        width: 135px;
+        border-radius: 5px;
+        object-fit: cover;
+        border: 1px solid black;
+        box-shadow: 5px 5px 5px gray;  
+    }
+
+   .formBox {
+    border: 2px solid white;
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    display: flex ;
+    height: 160px;
+    width: 400px;
+    cursor: pointer;
+   }
+
+   .formBox:hover {
+    box-shadow: 10px 5px 5px gray;  }
+
+
+p , h3{
+    color: #808484;
+    font-style: italic;
+}
+span {
+        font-style: italic;
+}
+    
